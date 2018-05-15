@@ -1,0 +1,19 @@
+{
+  "name": "electron",
+  "version": "1.0.0",
+  "description": "sample project for desktop application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shreejitray/Electron.git"
+  },
+  "author": "shreejit ray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shreejitray/Electron/issues"
+  },
+  "homepage": "https://github.com/shreejitray/Electron#readme"
+}
